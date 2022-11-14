@@ -1,0 +1,5 @@
+
+Composer update --> dans projet (avec un p minuscule mdr)
+BD map user name = iut partout
+Bin/console doctrine:migrations:migrate
+bin/console doctrine:fixtures:load
